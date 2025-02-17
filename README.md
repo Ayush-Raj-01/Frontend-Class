@@ -1,1 +1,1 @@
-# Frontend-Class.
+# Frontend-Class
